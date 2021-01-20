@@ -117,9 +117,7 @@ db/create.py
 .idea/dataSources/9ca8aefb-6084-4386-a553-7a172d5dc5b3.xml
 .idea/dataSources.xml
 .idea/dataSources.local.xml
-main.py
-main2.py
-main3.py
+
 mod.txt
 mod2.txt
 seq.txt
